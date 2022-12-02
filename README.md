@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="left">Hi there, I'm a wannabe Python Developer
+<img src="https://i.gifer.com/origin/3b/3bbf0dc0e49287b8de612b409997137e_w200.gif" height="32"/></h1>
+<h4 align="left">Слежу за тенденциями айти отрасли, в свободное время почитываю интересные релевантные статьи на Хабре. Продолжаю изучать подкапотку Python по книгам и документации.</h3>
+
 
 <!--
 **blankmeta/blankmeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![codewars](https://www.codewars.com/users/blankmeta/badges/large)](https://www.codewars.com/users/blankmeta)
