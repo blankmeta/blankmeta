@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![codewars](https://www.codewars.com/users/blankmeta/badges/large)](https://www.codewars.com/users/blankmeta)
+<!--[![codewars](https://www.codewars.com/users/blankmeta/badges/large)](https://www.codewars.com/users/blankmeta)-->
