@@ -1,6 +1,6 @@
 <h1 align="left">Python Backend Developer
 <img src="https://i.gifer.com/origin/3b/3bbf0dc0e49287b8de612b409997137e_w200.gif" height="32" width="32"/></h1>
-Python3, Django Framework, Django REST Framework, REST API, SQL, PosgreSQL, Git, Nginx, Linux/Unix, Docker, Google Cloud Pratform
+Python3, Django Framework, Django REST Framework, REST API, SQL, PosgreSQL, CI/CD, Github Actions, Git, Nginx, Linux/Unix, Docker, Google Cloud Pratform
 
 <h4>Telegram: @blankmeta</h4>
 
